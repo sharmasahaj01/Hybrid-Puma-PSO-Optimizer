@@ -1,0 +1,69 @@
+Function F1
+      PO: mean=5.672e-255   median=5.070e-261   std=0.000e+00
+     HPO: mean=0.000e+00   median=0.000e+00   std=0.000e+00
+     SCA: mean=2.272e+01   median=6.100e+00   std=4.369e+01
+     GWO: mean=1.815e-27   median=4.751e-28   std=5.394e-27
+     WOA: mean=9.179e-75   median=6.406e-79   std=2.819e-74
+     TSA: mean=1.925e-21   median=4.167e-22   std=4.673e-21
+     FHO: mean=3.679e+04   median=4.385e+04   std=1.531e+04
+     PSO: mean=8.827e-02   median=3.961e-02   std=1.362e-01
+
+Function F2
+      PO: mean=6.696e-127   median=1.266e-129   std=3.014e-126
+     HPO: mean=8.204e-212   median=1.153e-215   std=0.000e+00
+     SCA: mean=2.780e-02   median=4.291e-03   std=7.755e-02
+     GWO: mean=9.835e-17   median=8.108e-17   std=6.788e-17
+     WOA: mean=9.681e-50   median=2.463e-54   std=5.113e-49
+     TSA: mean=1.609e-13   median=7.694e-14   std=2.594e-13
+     FHO: mean=8.125e+06   median=5.346e+05   std=1.842e+07
+     PSO: mean=7.404e-01   median=5.852e-01   std=4.623e-01
+
+Function F3
+      PO: mean=2.364e-231   median=7.640e-236   std=0.000e+00
+     HPO: mean=2.909e-307   median=2.849e-318   std=0.000e+00
+     SCA: mean=1.017e+04   median=8.299e+03   std=6.461e+03
+     GWO: mean=1.114e-05   median=1.419e-06   std=2.290e-05
+     WOA: mean=4.917e+04   median=4.893e+04   std=1.311e+04
+     TSA: mean=1.062e-03   median=7.266e-05   std=3.169e-03
+     FHO: mean=7.496e+04   median=7.530e+04   std=1.952e+04
+     PSO: mean=1.284e+03   median=1.196e+03   std=7.094e+02
+
+Function F4
+      PO: mean=3.220e-128   median=1.782e-130   std=1.245e-127
+     HPO: mean=6.746e-176   median=3.126e-179   std=0.000e+00
+     SCA: mean=3.449e+01   median=3.578e+01   std=1.386e+01
+     GWO: mean=9.498e-07   median=5.191e-07   std=9.507e-07
+     WOA: mean=5.141e+01   median=5.305e+01   std=2.851e+01
+     TSA: mean=4.826e-01   median=2.492e-01   std=5.546e-01
+     FHO: mean=1.181e-01   median=3.261e-03   std=2.612e-01
+     PSO: mean=7.661e+00   median=7.364e+00   std=2.151e+00
+
+Function F5
+      PO: mean=2.478e+01   median=2.657e+01   std=6.712e+00
+     HPO: mean=1.939e+01   median=2.007e+01   std=3.759e+00
+     SCA: mean=3.002e+04   median=5.147e+03   std=5.089e+04
+     GWO: mean=2.720e+01   median=2.715e+01   std=8.652e-01
+     WOA: mean=2.785e+01   median=2.784e+01   std=4.060e-01
+     TSA: mean=2.833e+01   median=2.865e+01   std=8.119e-01
+     FHO: mean=8.992e+07   median=9.891e+07   std=4.406e+07
+     PSO: mean=1.452e+02   median=1.207e+02   std=9.217e+01
+
+Function F6
+      PO: mean=1.528e-04   median=1.240e-04   std=1.550e-04
+     HPO: mean=1.618e-13   median=1.030e-15   std=8.434e-13
+     SCA: mean=1.914e+01   median=1.084e+01   std=2.277e+01
+     GWO: mean=6.760e-01   median=5.028e-01   std=3.636e-01
+     WOA: mean=3.966e-01   median=3.550e-01   std=2.101e-01
+     TSA: mean=3.744e+00   median=3.825e+00   std=6.564e-01
+     FHO: mean=3.651e+04   median=4.289e+04   std=1.636e+04
+     PSO: mean=4.144e-01   median=1.042e-01   std=8.315e-01
+
+Function F7
+      PO: mean=2.376e-04   median=2.030e-04   std=1.972e-04
+     HPO: mean=1.314e-04   median=9.787e-05   std=1.070e-04
+     SCA: mean=1.319e-01   median=5.654e-02   std=1.938e-01
+     GWO: mean=1.858e-03   median=1.579e-03   std=1.217e-03
+     WOA: mean=4.298e-03   median=2.136e-03   std=5.127e-03
+     TSA: mean=1.008e-02   median=9.002e-03   std=5.684e-03
+     FHO: mean=4.955e+00   median=1.028e-02   std=1.250e+01
+     PSO: mean=1.169e-01   median=1.129e-01   std=5.379e-02
